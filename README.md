@@ -1,5 +1,5 @@
 # systemmonitor
-Nircmd script to take screenshots of your laptop. Using task scheduler along with this script will help in create a system monitoring software that takes screenshots periodically while the computer is being used.
+This is a batch script using Nircmd to take screenshots of your laptop. Using task scheduler along with this script will help in create a system monitoring software that takes screenshots periodically while the computer is being used.
 
 # Instructions
 1. First, you need to download the "nircmd" utility from the official website (https://www.nirsoft.net/utils/nircmd.html) and place it in    a directory accessible by your batch script.
